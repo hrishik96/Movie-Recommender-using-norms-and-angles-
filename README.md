@@ -147,7 +147,7 @@ basic idea with cosine similarity, projection, least-squares prediction,
 RMSE evaluation, and a MovieLens example.
 
 ## Team
-Hrishik N Urs 
-Hriday Kamath
-Jivesh R M
+Hrishik N Urs ,
+Hriday Kamath ,
+Jivesh R M ,
 Harsha C K
